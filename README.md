@@ -40,7 +40,7 @@ This implementation builds on the following public codebases:
 
 ## Licenses
 
-This is a multi-license repository.  See `LICENSE.md` for the top-level license
+This is a multi-license repository.  See `LICENSE_note.md` for the top-level license
 notice and the corresponding upstream license terms.
 
 - EDM: `td4diff_edm/src/LICENSE.txt`
