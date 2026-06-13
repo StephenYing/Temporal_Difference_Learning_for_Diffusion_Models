@@ -1,4 +1,4 @@
-# TD4Diffusion
+# Temporal Difference Learning for Diffusion Models
 
 This repository provides the official implementation for **Temporal Difference
 Learning for Diffusion Models**, accepted to **ICML 2026**.
